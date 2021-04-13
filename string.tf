@@ -5,6 +5,6 @@ variable "sample_string" {
 }
 
 output "string_output" {
-  value = var.sample
+  value = var.sample_string
 
 }
